@@ -4,6 +4,7 @@ Here’s an improved and visually appealing presentation of the **LeetCode SQL S
 ---
 
 # **LeetCode SQL Study Plan**
+[LeetCode Problem List](https://leetcode.com/problem-list/e97a9e5m/)
 
 ## **Tags and Patterns**
 
@@ -112,6 +113,7 @@ Here’s an improved and visually appealing presentation of the **LeetCode SQL S
 ---
 
 ## Hackerrank
+[Hackerrank Problem List](https://www.hackerrank.com/domains/sql)
 ---
 
 ## **Basic Select Challenges**
