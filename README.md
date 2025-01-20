@@ -4,7 +4,7 @@ Here’s an improved and visually appealing presentation of the **LeetCode SQL S
 ---
 
 # **LeetCode SQL Study Plan**
-[LeetCode Problem List](https://leetcode.com/problem-list/e97a9e5m/)
+[LeetCode SQL 50](https://leetcode.com/studyplan/top-sql-50/)
 
 ## **Tags and Patterns**
 
@@ -111,6 +111,112 @@ Here’s an improved and visually appealing presentation of the **LeetCode SQL S
 - Includes a wide range of patterns: Select, Joins, Aggregation, Subqueries, String Functions, and more.
 
 ---
+
+# **50 Advanced SQL Problems**
+## **Advanced SQL 50**
+[Advanced Leetcode SQL](https://leetcode.com/studyplan/premium-sql-50/)
+[Start](https://leetcode.com/problem-list/e97a9e5m/)
+
+---
+
+## **Tags and Problems**
+
+### **Basic Select**
+- **Find Customers With Positive Revenue This Year** *(Easy)*
+- **Customers Who Never Order** *(Easy)*
+
+---
+
+### **Basic Aggregate Functions**
+- **Calculate Special Bonus** *(Easy)*
+- **The Latest Login in 2020** *(Easy)*
+- **Game Play Analysis I** *(Easy)*
+- **Warehouse Manager** *(Easy)*
+- **Customer Placing the Largest Number of Orders** *(Easy)*
+- **Find Total Time Spent by Each Employee** *(Easy)*
+- **Immediate Food Delivery I** *(Easy)*
+
+---
+
+### **Basic Joins**
+- **Combine Two Tables** *(Easy)*
+- **Sellers With No Sales** *(Easy)*
+- **Top Travellers** *(Easy)*
+- **Sales Person** *(Easy)*
+
+---
+
+### **Sorting and Grouping**
+- **Bank Account Summary II** *(Easy)*
+- **Duplicate Emails** *(Easy)*
+- **Actors and Directors Who Cooperated At Least Three Times** *(Easy)*
+- **Customer Order Frequency** *(Easy)*
+- **Daily Leads and Partners** *(Easy)*
+- **Friendly Movies Streamed Last Month** *(Easy)*
+
+---
+
+### **Intermediate Problems**
+- **Evaluate Boolean Expression** *(Medium)*
+- **Team Scores in Football Tournament** *(Medium)*
+- **Apples & Oranges** *(Medium)*
+- **Number of Calls Between Two Persons** *(Medium)*
+- **Countries You Can Safely Invest In** *(Medium)*
+
+---
+
+### **Advanced Select and Joins**
+- **Consecutive Available Seats** *(Easy)*
+- **Rearrange Products Table** *(Easy)*
+- **Shortest Distance in a Line** *(Easy)*
+- **Employees With Missing Information** *(Easy)*
+- **Page Recommendations** *(Medium)*
+- **Tree Node** *(Medium)*
+- **Game Play Analysis III** *(Medium)*
+- **Grand Slam Titles** *(Medium)*
+- **Leetflex Banned Accounts** *(Medium)*
+
+---
+
+### **Subqueries**
+- **Students With Invalid Departments** *(Easy)*
+- **Find the Team Size** *(Easy)*
+- **Game Play Analysis II** *(Easy)*
+- **Department Highest Salary** *(Medium)*
+- **The Most Recent Orders for Each Product** *(Medium)*
+- **The Most Recent Three Orders** *(Medium)*
+- **Maximum Transaction Each Day** *(Medium)*
+
+---
+
+### **Advanced Topics: Window Functions and CTE**
+- **Project Employees III** *(Medium)*
+- **Find the Start and End Number of Continuous Ranges** *(Medium)*
+- **The Most Frequently Ordered Products for Each Customer** *(Medium)*
+- **Biggest Window Between Visits** *(Medium)*
+- **All People Report to the Given Manager** *(Medium)*
+
+---
+
+### **Hard Problems**
+- **Find the Quiet Students in All Exams** *(Hard)*
+- **Find the Subtasks That Did Not Execute** *(Hard)*
+- **Report Contiguous Dates** *(Hard)*
+
+---
+
+## **Summary**
+This set of 50 problems spans basic to advanced SQL topics, including:
+- **Select Queries**
+- **Joins**
+- **Aggregations**
+- **Window Functions**
+- **Common Table Expressions (CTE)**
+- **Subqueries**
+
+Ideal for intermediate to advanced SQL learners aiming to solidify their skills.
+
+
 
 ## Hackerrank
 [Hackerrank Problem List](https://www.hackerrank.com/domains/sql)
